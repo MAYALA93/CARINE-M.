@@ -9,4 +9,4 @@ France
 [![forthebadge](http://forthebadge.com/images/badges/built-with-love.svg)](http://forthebadge.com)  [![forthebadge](http://forthebadge.com/images/badges/powered-by-electricity.svg)](http://forthebadge.com)
 
 # Réseaux Sociaux
-Carine M. https://www.linkedin.com/in/carine-mpaka-1906751b6/
+ruchicodess https://www.linkedin.com/in/ruchi-pakhle-a0a5311b0/
