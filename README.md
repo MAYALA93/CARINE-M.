@@ -4,7 +4,6 @@
 France
 
 # My skills 
-💬 React JS / Wordpress
 
 # Languages
 
