@@ -1,6 +1,7 @@
 # COUCOU 👋 Je suis CARINE-M.
 
-# Une passionnée du web digital !
+<h3>Une passionnée du web digital !</h3>
+
 France
 
 # My skills 
