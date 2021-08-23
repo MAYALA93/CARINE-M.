@@ -2,7 +2,7 @@
 
 <h3>Une passionnée du web digital !</h3>
 
-France
+👨‍💻 All of my projects are available at https://mayala93.github.io/
 
 # My skills 
 
